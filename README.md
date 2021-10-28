@@ -1,6 +1,6 @@
 ### Hello there 👋
 I am a fullstack software developer(intern) from Enugu, Nigeria.😏👉👈
-- 🔭 Working on multiple frontend and backend projects using React and Nodejs
+- 🔭 Working on multiple frontend and backend projects using React, Nodejs & .NetCORE
 - 🌱 Learning design patterns in depth using figma.
 <br>
 
@@ -28,6 +28,8 @@ I am a fullstack software developer(intern) from Enugu, Nigeria.😏👉👈
 <img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <br>
 <br>
+
+<a style="float: right;" href="https://app.daily.dev/KCMicheal"><img src="https://api.daily.dev/devcards/27a815e6330e48de9a10d42fa76e044f.png?r=4vc" width="400" alt="KCM's Dev Card"/></a>
 <!--
 **KCMicheal/KCMicheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
