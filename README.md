@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am a fullstack software developer(intern) from Enugu, Nigeria.😏👉👈
+I am a fullstack software developer from Enugu, Nigeria.😏👉👈
 - 🔭 Working on multiple frontend and backend projects using React, Nodejs & .NetCORE
 - 🌱 Learning design patterns in depth using figma.
 <br>
