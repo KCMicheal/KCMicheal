@@ -16,6 +16,7 @@ Software Engineer
 src="https://img.shields.io/twitter/follow/king__cypher?logo=twitter&style=for-the-badge&color=f97316&labelColor=ffffff"
 /></a><a href="https://www.github.com/kcmicheal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kcmicheal?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
+<a style="float: right;" href="https://app.daily.dev/KCMicheal"><img src="https://github.com/KCMicheal/KCMicheal/blob/master/devcard.svg" width="400" alt="KCM's Dev Card"/></a>
 ### Skills
 
 <p align="left">
@@ -47,6 +48,7 @@ src="https://img.shields.io/github/followers/kcmicheal?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/kcmicheal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/kcmichealx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/egwunwoke1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/kcmicheal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@KCM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/king__cypher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kenechukwu-micheal-egwunwoke-6ba738188/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/kcmicheal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/kcmicheal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/king__cypher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
