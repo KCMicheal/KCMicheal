@@ -7,8 +7,7 @@ Software Engineer
 * 🌍  I'm based in Enugu, Nigeria
 * 🖥️  See my portfolio at [kcmicheal.com](http://kcmicheal.com)
 * ✉️  You can contact me at [egwunwokekc@gmail.com](mailto:egwunwokekc@gmail.com)
-* 🚀  I'm currently working on [XendBridge](http://xendbridge.com)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning DevOps and Blockchain technologies
 * 🤝  I'm open to collaborating on C# and Typescript projects.
 * ⚡  I'm a music producer and artist.
 
