@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Enugu, Nigeria
 * 🖥️  See my portfolio at [kcmicheal.com](http://kcmicheal.com)
 * ✉️  You can contact me at [egwunwokekc@gmail.com](mailto:egwunwokekc@gmail.com)
-* 🧠  I'm learning DevOps and Blockchain technologies
+* 🧠  I'm learning CyberSecurity and Product management.
 * 🤝  I'm open to collaborating on C# and Typescript projects.
 * ⚡  I'm a music <a href="https://flowpage.com/redcyx">producer</a> and <a href="https://flowpage.com/kcm">artist</a>.
 
